@@ -13,13 +13,13 @@ img{
 }
 a{
     display: block;
-    background-color: rgba(238, 44, 44, 0.76);
+    background-color: white;
     text-align: center;
-    padding: 10px;
+    padding: 23px;
     font-weight: bolder;
-    color: white;
-    text-decoration: underline;
+    color: black;
+    text-decoration:underline;
 }
 a:hover{
-    background-color: rgba(255, 0, 0, 0.603);
+    background-color: rgb(223, 197, 197)
 }

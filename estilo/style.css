@@ -28,17 +28,21 @@ section#telefone{
    
     height: 507px;
     width:  296px;
-    background: url('../imagens/celular.png') no-repeat;
+    background: url('../imagens/celular2.png') no-repeat;
 }
 iframe#tela{ 
     position: relative;
-    top: 60px;
-    left: 32px;
-    width: 234px;
-    height: 330px;
+    top: 10px;
+    left: 53px;
+    width: 197px;
+    height: 418px;
     background-size: cover;
+    border-radius: 7%;
 }
-
+section#redes-sociais{
+    text-align: right;
+    
+}
 
 section#redes-sociais img{
     width: 50px;
