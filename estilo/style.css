@@ -12,6 +12,7 @@ html, body{
 body{
     background: url('../imagens/fundo.jpeg');
     background-attachment: fixed;
+    background-size: cover;
 }
 
 main{
@@ -29,7 +30,7 @@ section#telefone{
     width:  296px;
     background: url('../imagens/celular.png') no-repeat;
 }
-iframe#tela{
+iframe#tela{ 
     position: relative;
     top: 60px;
     left: 32px;
@@ -55,9 +56,3 @@ section#redes-sociais img:hover{
     border: 2px solid white;
 
 }
-.container {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
-
