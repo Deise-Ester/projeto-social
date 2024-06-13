@@ -55,7 +55,8 @@ section#redes-sociais img:hover{
     border: 2px solid white;
 
 }
-@media (max-width: 600px) {
+
+@media (max-width: 768px) {
     
     body {
         font-size: 14px;
@@ -65,3 +66,4 @@ section#redes-sociais img:hover{
         padding: 0 10px;
     }
 }
+
