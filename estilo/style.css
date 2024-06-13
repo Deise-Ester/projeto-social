@@ -55,3 +55,13 @@ section#redes-sociais img:hover{
     border: 2px solid white;
 
 }
+@media (max-width: 600px) {
+    
+    body {
+        font-size: 14px;
+    }
+    .container {
+        width: 100%;
+        padding: 0 10px;
+    }
+}
